@@ -109,9 +109,16 @@ blockchain-volunteer
 - Enhanced UI for better user experience.
 - Additional features like event updates and notifications.
 
-## License
+## Screenshots
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+1. **Create Event Page**
+
+   ![Screenshot 1](assets/1.PNG)
+
+2. **Event Details Page**
+
+   ![Screenshot 2](assets/2.PNG)
+
 
 ## Contribution
 
